@@ -36,5 +36,8 @@ public class PaddleController : MonoBehaviour
             // Set the new position of the paddle
             transform.position = touchPosition;
         }
+
+        // Reset the paddle's velocity to zero
+        GetComponent<Rigidbody2D>().velocity = Vector2.zero;
     }
 }
