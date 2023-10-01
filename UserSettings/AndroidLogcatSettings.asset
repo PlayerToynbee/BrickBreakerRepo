@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "R5CT71Q3S7B",
         "name": "com.DefaultCompany.BrickBreaker",
-        "processId": 25843,
+        "processId": 10131,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -18,6 +18,12 @@
             "deviceId": "R5CT71Q3S7B",
             "name": "com.DefaultCompany.BrickBreaker",
             "processId": 25843,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CT71Q3S7B",
+            "name": "com.DefaultCompany.BrickBreaker",
+            "processId": 10131,
             "exited": false
         }
     ],
